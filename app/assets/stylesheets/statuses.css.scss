@@ -12,13 +12,13 @@
 }
 
 .status.hover {
-  background: #F0F0F0
+  background: #FAFAFA;
 }
 
 .status .admin {
   display: none;
 }
 
-status.hover .admin {
+.status.hover .admin {
   display: inline;
 }
